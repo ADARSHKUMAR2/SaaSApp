@@ -7,6 +7,8 @@ It uses:
 - Clerk for authentication and subscription enforcement
 - a FastAPI backend endpoint that streams model output over SSE
 
+https://saas-bexi3k909-adarshkumar124-8995s-projects.vercel.app/
+
 ## What This App Does
 
 - Landing page (`/`) with sign-in and upgrade messaging
